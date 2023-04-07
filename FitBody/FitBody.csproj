@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\bg-0.jpg" />
+    <None Remove="images\calories.png" />
+    <None Remove="images\cancel.png" />
+    <None Remove="images\expand.png" />
+    <None Remove="images\letter-c.png" />
+    <None Remove="images\letter-f.png" />
+    <None Remove="images\letter-p.png" />
+    <None Remove="images\list.png" />
+    <None Remove="images\loading.png" />
+    <None Remove="images\logo.png" />
+    <None Remove="images\minimize-sign.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\bg-0.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\calories.png" />
+    <Resource Include="images\cancel.png" />
+    <Resource Include="images\expand.png" />
+    <Resource Include="images\letter-c.png" />
+    <Resource Include="images\letter-f.png" />
+    <Resource Include="images\letter-p.png" />
+    <Resource Include="images\list.png" />
+    <Resource Include="images\loading.png" />
+    <Resource Include="images\logo.png" />
+    <Resource Include="images\minimize-sign.png" />
+  </ItemGroup>
+
+</Project>

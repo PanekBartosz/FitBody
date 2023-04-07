@@ -1,0 +1,137 @@
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\App.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Aplikacja\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\wierz\Downloads\fitbody-lukasz\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Aplikacja\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\wierz\Documents\Repository\fitbody\fitbody-przemek_v2\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
