@@ -14,7 +14,7 @@
         MinWidth="1024">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="images\bg-0.jpg" Stretch="UniformToFill"/>
+            <ImageBrush ImageSource="images\bg-3.jpg" Stretch="UniformToFill"/>
         </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="39"/>
@@ -123,8 +123,8 @@
                 <Border Grid.Row="2" Background="#EFEFEF" CornerRadius="15"/>
 
                 <Image Source="images/logo.png" Width="200" Height="200" HorizontalAlignment="Center" Margin="0,0,0,400"/>
-
-                <Button x:Name="resetPassButton" Content="ZRESETUJ HASŁO" Width="300" Height="45" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,513,0,110" BorderBrush="#00000000" Background="#FF95C7EC" Cursor="Hand">
+                <TextBox x:Name="MessageBoxError" IsEnabled="False" Foreground="Red" Height="20" Width="260" Background="Transparent" BorderThickness="0" Text="" TextAlignment="Center" Margin="78,465,77,183"/>
+                <Button x:Name="resetPassButton" Content="ZRESETUJ HASŁO" Width="300" Height="45" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,513,0,110" BorderBrush="#00000000" Background="#FF0AB19F" Cursor="Hand" Foreground="White" Click="resetPassButton_Click">
                     <Button.Style>
                         <Style TargetType="{x:Type Button}">
                             <Setter Property="Template">
@@ -154,7 +154,7 @@
                         </Style>
                     </TextBox.Resources>
                 </TextBox>
-                <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="Aby zresetować hasło, wprowadź poniżej swój adres e-mail. Na podany e-mail zostanie wysłana wiadomość z instrukcją jak uzyskać ponownie dostęp." VerticalAlignment="Center" Width="300" Height="95" FontFamily="Arial" FontSize="16" Background="#FFEFEFEF" Foreground="Black" BorderThickness="0" TextAlignment="Justify"/>
+                <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="Aby zresetować hasło, wprowadź poniżej swój adres e-mail. Na podany e-mail zostanie wysłana wiadomość z nowym tymczasowym hasłem." VerticalAlignment="Center" Width="300" Height="95" FontFamily="Arial" FontSize="16" Background="#FFEFEFEF" Foreground="Black" BorderThickness="0" TextAlignment="Justify"/>
 
                 <Button x:Name="undoButton" Margin="138,637,138,10" BorderBrush="#FFEFEFEF"
                         Background="#FFEFEFEF" FontFamily="Arial" FontSize="10" FontWeight="SemiBold" Foreground="#FF2A3A6C" Click="undoButton_Click">

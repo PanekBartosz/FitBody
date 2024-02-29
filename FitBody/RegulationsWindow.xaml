@@ -1,0 +1,203 @@
+﻿<Window x:Class="FitBody.RegulationsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FitBody"
+        mc:Ignorable="d"
+        Title="FitBody - Terms and conditions" Height="768" Width="1024"
+        x:Name="ResponsiveWindow"
+        WindowStyle="None"
+        ResizeMode="CanResizeWithGrip"
+        WindowStartupLocation="CenterScreen"
+        MinHeight="768"
+        MinWidth="1024">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="images\bg-3.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="39"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="668*"/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.RowSpan="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="934*"/>
+                <ColumnDefinition Width="30*"/>
+                <ColumnDefinition Width="30*"/>
+                <ColumnDefinition Width="30*"/>
+            </Grid.ColumnDefinitions>
+            <Border Background="#181818" BorderBrush="#FF181818" Grid.ColumnSpan="4" Margin="0,0,0,0" />
+
+
+            <Border Grid.Column="3" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="closeButton" Content="" Click="closeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/cancel.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="closeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+
+
+
+
+            <Border Grid.Column="2" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="minimizeButton" Content="" Click="minimizeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/minimize-sign.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="minimizeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+
+            <Border Grid.Column="1" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="resizeButton" Content="" Click="resizeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/expand.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="resizeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+        </Grid>
+
+        <Grid Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="304.5*"/>
+                <ColumnDefinition Width="415"/>
+                <ColumnDefinition Width="304.5*"/>
+            </Grid.ColumnDefinitions>
+
+
+            <Grid  Margin="99,69,99,-668" Grid.ColumnSpan="3">
+                <Border Background="#EFEFEF" CornerRadius="15">
+                    <Grid Margin="0,128,0,0">
+                        <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="0,69,10,99">
+                            <TextBlock TextWrapping="Wrap" FontSize="14" Height="826" Width="762">
+                                Regulamin Aplikacji FitBody <LineBreak/>
+
+                                Wprowadzenie<LineBreak/>
+
+                                1. Niniejszy regulamin określa warunki korzystania z aplikacji dietetyczno-treningowej, dostępnej na urządzeniach mobilnych oraz komputerach.<LineBreak/>
+
+                                2. Przed rozpoczęciem korzystania z Aplikacji, prosimy o zapoznanie się z poniższymi warunkami. Korzystając z Aplikacji, wyrażasz zgodę na wszystkie postanowienia niniejszego regulaminu.<LineBreak/>
+
+                                Warunki korzystania z Aplikacji<LineBreak/>
+
+                                3. Aplikacja jest przeznaczona dla osób powyżej 13 roku życia. Osoby poniżej 13 roku życia powinny korzystać z Aplikacji pod nadzorem rodziców lub opiekunów prawnych.<LineBreak/>
+
+                                4. Korzystanie z Aplikacji wymaga rejestracji. Użytkownik zobowiązuje się do podania prawdziwych i aktualnych danych podczas procesu rejestracji. Użytkownik ponosi odpowiedzialność za zachowanie poufności hasła i danych logowania.<LineBreak/>
+
+                                5. Aplikacja jest dostępna jedynie w celach informacyjnych i edukacyjnych. Nie zastępuje ona profesjonalnej porady medycznej ani diagnozy. Przed rozpoczęciem jakiejkolwiek diety lub programu treningowego, zalecamy skonsultowanie się z lekarzem lub innym wykwalifikowanym specjalistą.<LineBreak/>
+
+                                6. Użytkownik zobowiązuje się do korzystania z Aplikacji zgodnie z obowiązującym prawem i przepisami oraz dostrzegania i przestrzegania praw innych użytkowników.<LineBreak/>
+
+                                Odpowiedzialność<LineBreak/>
+
+                                7. Użytkownik korzysta z Aplikacji na własne ryzyko. Twórcy i dostawcy Aplikacji nie ponoszą odpowiedzialności za jakiekolwiek szkody wynikające z korzystania z Aplikacji, w tym straty danych, uszkodzenia sprzętu lub oprogramowania.<LineBreak/>
+
+                                8. Wszelkie informacje zamieszczone w Aplikacji mają charakter ogólny i nie są gwarantowane jako dokładne, kompleksowe lub aktualne. Twórcy i dostawcy Aplikacji nie ponoszą odpowiedzialności za skutki wynikające z zastosowania informacji zawartych w Aplikacji.<LineBreak/>
+
+                                Prawa autorskie i własność intelektualna<LineBreak/>
+
+                                9. Wszelkie materiały, teksty, grafiki, zdjęcia, filmy i inne zawarte w Aplikacji są chronione prawami autorskimi lub innymi prawami własności intelektualnej. Użytkownik nie ma prawa kopiować, reprodukować, publikować, transmitować lub wykorzystywać te materiały w celach komercyjnych bez wyraźnej zgody właściciela praw.<LineBreak/>
+
+                                Zmiany w regulaminie<LineBreak/>
+
+                                10. Twórcy Aplikacji zastrzegają sobie prawo do zmiany niniejszego regulaminu w dowolnym czasie. Użytkownik będzie informowany o zmianach poprzez powiadomienie w Aplikacji lub na podany przez niego adres e-mail. Kontynuowanie korzystania z Aplikacji po wprowadzeniu zmian oznacza akceptację nowego regulaminu.<LineBreak/>
+
+                                Zakończenie korzystania z Aplikacji<LineBreak/>
+
+                                11. Użytkownik może zakończyć korzystanie z Aplikacji w dowolnym momencie poprzez usunięcie swojego konta.<LineBreak/>
+
+                                12. Twórcy Aplikacji zastrzegają sobie prawo do zablokowania dostępu do Aplikacji lub usunięcia konta użytkownika w przypadku naruszenia postanowień niniejszego regulaminu.<LineBreak/>
+
+                                13. W przypadku zakończenia korzystania z Aplikacji, użytkownik zgadza się na usunięcie wszystkich swoich danych przechowywanych w Aplikacji.<LineBreak/>
+
+                                Zgoda na przetwarzanie danych<LineBreak/>
+
+                                14. Użytkownik wyraża zgodę na przetwarzanie swoich danych osobowych zgodnie z Polityką Prywatności Aplikacji.<LineBreak/>
+
+                                Postanowienia końcowe<LineBreak/>
+
+                                15. Niniejszy regulamin podlega prawu polskiemu i wszelkie spory wynikające z korzystania z Aplikacji będą rozstrzygane przez właściwe polskie sądy.<LineBreak/>
+
+                                16. Jeżeli jakiekolwiek postanowienie niniejszego regulaminu zostanie uznane za nieważne lub nieegzekwowalne, pozostałe postanowienia pozostaną w mocy.<LineBreak/>
+
+                                Niniejszy regulamin został ostatnio zaktualizowany dnia 01.06.2023.
+
+                            </TextBlock>
+                        </ScrollViewer>
+                    </Grid>
+
+
+
+                </Border>
+
+                <Image Source="images/logo.png" Width="217" HorizontalAlignment="Center" Margin="0,10,0,483"/>
+
+
+                <Button x:Name="undoButton" Margin="138,637,138,10" BorderBrush="#FFEFEFEF"
+                        Background="#FFEFEFEF" FontFamily="Arial" FontSize="10" FontWeight="SemiBold" Foreground="#FF2A3A6C" Click="undoButton_Click">
+                    <Button.ContentTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="POWRÓĆ" TextDecorations="Underline" />
+                        </DataTemplate>
+                    </Button.ContentTemplate>
+                </Button>
+
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Window>

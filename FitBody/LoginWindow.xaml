@@ -5,7 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FitBody"
         mc:Ignorable="d"
-        Title="FitBody - Login" Height="768" Width="1024"
+        Title="FitBody - Login" 
+        Height="768" 
+        Width="1024"
         x:Name="ResponsiveWindow"
         WindowStyle="None"
         ResizeMode="CanResizeWithGrip"
@@ -14,8 +16,9 @@
         MinWidth="1024">
 
     <Grid>
+
         <Grid.Background>
-            <ImageBrush ImageSource="images\bg-0.jpg" Stretch="UniformToFill"/>
+            <ImageBrush ImageSource="images\bg-3.jpg" Stretch="UniformToFill"/>
         </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="39"/>
@@ -112,7 +115,7 @@
 
         </Grid>
 
-        <Grid Grid.RowSpan="2">
+        <Grid Grid.RowSpan="2" HorizontalAlignment="Center" MaxHeight="668">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="304.5*"/>
                 <ColumnDefinition Width="415"/>
@@ -126,10 +129,13 @@
 
                 </Border>
 
-                <TextBox x:Name="login" Width="300" Height="45" Text="LOGIN" Padding="5"  
-                         Margin="0,273,0,0" VerticalContentAlignment="Center" BorderBrush="Black"
+                <TextBox x:Name="MessageBoxError" IsEnabled="False" Foreground="Red" Height="20" Width="260" Background="Transparent" BorderThickness="0" Text="" TextAlignment="Center" Margin="78,253,77,395">
+                </TextBox>
+
+                <TextBox x:Name="loginTextBox" Width="300" Height="45" Text="LOGIN" Padding="5"  
+                         Margin="0,278,0,0" VerticalContentAlignment="Center" BorderBrush="Black"
                          FontFamily="Arial" FontWeight="Bold" FontSize="22" Foreground="#7F000000"
-                         GotFocus="login_GotFocus" TextAlignment="Center" HorizontalAlignment="Center"
+                         GotFocus="login_GotFocus" LostFocus="login_LostFocus" TextAlignment="Center" HorizontalAlignment="Center"
                          VerticalAlignment="Top" SelectionBrush="Black" Cursor="Hand">
                     <TextBox.Resources>
                         <Style TargetType="{x:Type Border}">
@@ -155,14 +161,15 @@
                     </PasswordBox.Template>
                 </PasswordBox>
 
-                <TextBlock x:Name="overlayTextBlock" Text="HASŁO" VerticalAlignment="Top" HorizontalAlignment="Center"
-               Foreground="#7F000000" FontSize="22" FontWeight="Bold"
-               Visibility="Visible" Margin="0,362,0,0">
+                <TextBlock x:Name="overlayTextBlock" Text="HASŁO" VerticalAlignment="top" HorizontalAlignment="Center"
+               Foreground="#7F000000" FontSize="22" FontWeight="Bold" IsEnabled="false"
+               IsHitTestVisible="False"
+               Visibility="Visible" Margin="0,362,0,0" >
                 </TextBlock>
 
-                <Button x:Name="logginButton" Content="ZALOGUJ" Width="300" Height="45" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,443,0,180" BorderBrush="#00000000" Click="logginButton_Click" Cursor="Hand">
+                <Button x:Name="loggin_Button" Content="ZALOGUJ" Width="300" Height="45" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,443,0,180" BorderBrush="#00000000" Click="logginButton_Click" Cursor="Hand" Foreground="White">
                     <Button.Background>
-                        <SolidColorBrush Color="#FF95C7EC"/>
+                        <SolidColorBrush Color="#FF0AB19F"/>
                     </Button.Background>
                     <Button.Style>
                         <Style TargetType="{x:Type Button}">
@@ -185,7 +192,7 @@
 
                 <Image Source="images/logo.png" Width="200" Height="200" HorizontalAlignment="Center" Margin="0,0,0,400"/>
 
-                <Button x:Name="registerButton" Content="ZAREJESTRUJ" Width="300" Height="45" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,519,0,104" BorderBrush="#00000000" Background="#FF95C7EC" Cursor="Hand" Click="registerButton_Click">
+                <Button x:Name="registerButton" Content="ZAREJESTRUJ" Width="300" Height="45" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,519,0,104" BorderBrush="#00000000" Background="#FF0AB19F" Cursor="Hand" Click="registerButton_Click" Foreground="White">
                     <Button.Style>
                         <Style TargetType="{x:Type Button}">
                             <Setter Property="Template">

@@ -1,0 +1,130 @@
+﻿<Window x:Class="FitBody.LoadWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FitBody"
+        mc:Ignorable="d"
+        Title="LoadWindow" Height="450" Width="800"
+        x:Name="ResponsiveWindow"
+        WindowStyle="None"
+        ResizeMode="CanResizeWithGrip"
+        WindowStartupLocation="CenterScreen"
+        MinHeight="768"
+        MinWidth="1024">
+    <Grid >
+        <Grid.Background>
+            <ImageBrush ImageSource="images\bg-3.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="39"/>
+            <RowDefinition Height="667*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.RowSpan="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="934*"/>
+                <ColumnDefinition Width="30*"/>
+                <ColumnDefinition Width="30*"/>
+                <ColumnDefinition Width="30*"/>
+            </Grid.ColumnDefinitions>
+            <Border Background="#181818" BorderBrush="#FF181818" Grid.ColumnSpan="4" Margin="0,0,0,0" />
+
+
+            <Border Grid.Column="3" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="closeButton" Content="" Click="closeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/cancel.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="closeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+
+
+
+
+            <Border Grid.Column="2" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="minimizeButton" Content="" Click="minimizeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/minimize-sign.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="minimizeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+
+            <Border Grid.Column="1" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="resizeButton" Content="" Click="resizeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/expand.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="resizeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+        </Grid>
+        <Grid Grid.Row="2">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+
+                <local:DonutSpinner  Height="80" Width="80" Margin="10, 0" Duration="0:0:1.5">
+                    <local:DonutSpinner.SpinnerColor>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF9A1570"/>
+                            <GradientStop Color="#FF08865B" Offset="1"/>
+                        </LinearGradientBrush>
+                    </local:DonutSpinner.SpinnerColor>
+                </local:DonutSpinner>
+                <TextBlock Text="Ładowanie ... Proszę czekać " VerticalAlignment="Center"/>
+            </StackPanel>
+        </Grid>
+
+
+    </Grid>
+</Window>
+

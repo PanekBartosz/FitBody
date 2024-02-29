@@ -13,15 +13,58 @@
         MinHeight="768"
         MinWidth="1024">
 
+    <Window.Resources>
+        <Style x:Key="StyleCalendar" TargetType="{x:Type Calendar}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Calendar}">
+                        <Border Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="{TemplateBinding BorderThickness}"
+                        CornerRadius="5">
+                            <!-- Ustawienie zaokrąglonych rogów -->
+                            <CalendarItem x:Name="PART_CalendarItem"
+                                  Background="{TemplateBinding Background}"
+                                  BorderBrush="{TemplateBinding BorderBrush}"
+                                  BorderThickness="{TemplateBinding BorderThickness}"
+                                  FontStretch="Expanded">
+                                <!-- Pozostałe elementy wewnątrz CalendarItem -->
+                            </CalendarItem>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
 
-    <Grid Background="#EFEFEF">
+            <Setter Property="Foreground" Value="#FF333333" />
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="White" Offset="0.1" />
+                        <GradientStop Color="White" Offset="0.1" />
+                        <GradientStop Color="White" Offset="1" />
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="BorderThickness" Value="0" />
+        </Style>
+
+    </Window.Resources>
+
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="images\bg-3.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
         <Grid.RowDefinitions>
             <RowDefinition Height="39"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
         <Grid Grid.RowSpan="1">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="934*"/>
+                <ColumnDefinition Width="50*"/>
+                <ColumnDefinition Width="884*"/>
                 <ColumnDefinition Width="30*"/>
                 <ColumnDefinition Width="30*"/>
                 <ColumnDefinition Width="30*"/>
@@ -29,7 +72,7 @@
             <Border Background="#181818" BorderBrush="#FF181818" Grid.ColumnSpan="4" Margin="0,0,0,0" />
 
 
-            <Border Grid.Column="3" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+            <Border Grid.Column="4" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="Auto"/>
@@ -53,11 +96,15 @@
                 </Grid>
             </Border>
 
+            <Border Grid.Column="0" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <ToggleButton x:Name="HamburgerMenuButton" Content="&#x2630;" Width="50" Height="39" Background="Black" Foreground="White" FontSize="24" Cursor="Hand" />
+                </Grid>
+            </Border>
 
 
 
-
-            <Border Grid.Column="2" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+            <Border Grid.Column="3" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="Auto"/>
@@ -82,7 +129,7 @@
             </Border>
 
 
-            <Border Grid.Column="1" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+            <Border Grid.Column="2" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="Auto"/>
@@ -108,8 +155,9 @@
 
         </Grid>
 
-        <Grid Grid.RowSpan="2">
+        <Grid Grid.RowSpan="2" Margin="5,0,5,0">
             <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="46*"/>
                 <ColumnDefinition Width="280*"/>
                 <ColumnDefinition Width="46*"/>
@@ -119,7 +167,33 @@
                 <ColumnDefinition Width="46*"/>
             </Grid.ColumnDefinitions>
 
-            <Grid Grid.Column="1" Margin="0,38,0,0">
+            <Grid Grid.Column="0" Margin="0,38,0,0" Background="#181818">
+                <Grid x:Name="MenuGrid" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FFA4A4A4" >
+                    <!-- elementy menu -->
+                    <Menu Height="600" Width="150" Background="#181818"  BorderBrush="Black">
+                        <Image Source="images/image.png" Width="140" Height="140" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,30,0,30" />
+                        <MenuItem Header="Pomiary" HorizontalAlignment="Center" Width="150" Height="70" VerticalAlignment="Center" FontSize="28"  HorizontalContentAlignment="Center" Padding="20,10,6,10" FontFamily="Bahnschrift" Foreground="White" Click="MenuItem_Click_2"/>
+                        <MenuItem Header="Ćwiczenia" HorizontalAlignment="Center" Width="150" Height="70" VerticalAlignment="Center" FontSize="28"  HorizontalContentAlignment="Center" Padding="5,10,6,10" FontFamily="Bahnschrift" Foreground="White" Click="MenuItem_Click_3"/>
+                        <MenuItem Header="Przepisy" HorizontalAlignment="Center" Width="150" Height="70" VerticalAlignment="Center" FontSize="28"  HorizontalContentAlignment="Center" Padding="20,10,6,10" FontFamily="Bahnschrift" Foreground="White" Click="MenuItem_Click_4"/>
+                        <MenuItem Header="Ustawienia" HorizontalAlignment="Center" Width="150" Height="70" VerticalAlignment="Center" FontSize="28"  HorizontalContentAlignment="Center" Padding="5,10,6,10" FontFamily="Bahnschrift" Foreground="White" Click="MenuItem_Click_1"/>
+                        <MenuItem Header="Wyloguj" HorizontalAlignment="Center" Width="150" Height="70" VerticalAlignment="Center" FontSize="28"  Padding="20,10,6,10" FontFamily="Bahnschrift" Foreground="White" Click="MenuItem_Click"/>
+                    </Menu>
+
+                    <Grid.Style>
+                        <Style TargetType="Grid">
+                            <Setter Property="Visibility" Value="Collapsed" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding ElementName=HamburgerMenuButton, Path=IsChecked}" Value="True">
+                                    <Setter Property="Visibility" Value="Visible" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Grid.Style>
+                </Grid>
+            </Grid>
+
+
+            <Grid Grid.Column="2" Margin="0,38,0,0">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="35"/>
                     <RowDefinition Height="13*"/>
@@ -130,54 +204,34 @@
                     <RowDefinition Height="13*"/>
                 </Grid.RowDefinitions>
 
+
+
+
                 <Border Grid.Row="2" Background="White" CornerRadius="20,20,0,0">
                     <StackPanel>
-                        <StackPanel>
-                            <TextBlock Text="Dieta" FontSize="29" FontFamily="Bahnschrift" HorizontalAlignment="Center" Margin="0,10,0,10"></TextBlock>
-                            <TextBlock Text="Śniadanie" FontSize="26" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,10,0,0"></TextBlock>
+                        <TextBlock Text="Dieta" FontSize="29" FontFamily="Bahnschrift" HorizontalAlignment="Center" Margin="0,10,0,10"></TextBlock>
+                        <Grid Height="549">
+                            <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="0,0,0,60">
+                                <TextBlock x:Name="diet" TextWrapping="Wrap"  FontSize="18"  FontFamily="Bahnschrift" Width="243" >
+                                <Run x:Name="diet2" Text=" Śniadanie&#10;" FontSize="26" FontFamily="Bahnschrift" ></Run>
+                                <Run x:Name="sniadanie"  FontSize="18" FontFamily="Bahnschrift" Foreground="#FF3E3D3D"></Run>
+                                <Run x:Name="sniadanieProdukty"  FontSize="18" FontFamily="Bahnschrift" Foreground="#FF585858"></Run>
+                                <Run x:Name="diet3" Text="Lunch&#10;" FontSize="26" FontFamily="Bahnschrift"></Run>
+                                <Run x:Name="lunch"  FontSize="18" FontFamily="Bahnschrift" Foreground="#FF3E3D3D"></Run>
+                                <Run x:Name="lunchProdukty"  FontSize="18" FontFamily="Bahnschrift" Foreground="#FF585858"></Run>
+                                <Run x:Name="diet4" Text="Obiad&#10;" FontSize="26" FontFamily="Bahnschrift"></Run>
+                                <Run x:Name="obiad"  FontSize="18" FontFamily="Bahnschrift" Foreground="#FF3E3D3D"></Run>
+                                <Run x:Name="obiadProdukty"  FontSize="18" FontFamily="Bahnschrift" Foreground="#FF585858"></Run>
+                                <Run x:Name="diet5" Text="Kolacja&#10;" FontSize="26" FontFamily="Bahnschrift"></Run>
+                                <Run x:Name="kolacja"  FontSize="18" FontFamily="Bahnschrift" Foreground="#FF3E3D3D"></Run>
+                                <Run x:Name="kolacjaProdukty"  FontSize="18" FontFamily="Bahnschrift" Foreground="#FF585858"></Run>
+                                </TextBlock>
+                            </ScrollViewer>
 
-                            <!--Product-->
-                            <StackPanel Height="81">
-                                <TextBlock Text="Bułka zwykła" FontSize="21" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="15,5,0,0"></TextBlock>
-                                <TextBlock Text="1 bułka (60g)" FontSize="18" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="15,0,0,0" Foreground="#FF585858"></TextBlock>
-                                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
-                                    <Image Source="images/calories.png" Width="16px" HorizontalAlignment="Left" Margin="15,0,0,0" Height="16"></Image>
-                                    <TextBlock Text="320" FontSize="13" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FFFE1600"/>
-                                    <Image Source="images/letter-p.png" Width="16px" HorizontalAlignment="Left" Margin="10,0,0,0" Height="16"></Image>
-                                    <TextBlock Text="320" FontSize="13" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF1EAAF1"/>
-                                    <Image Source="images/letter-c.png" Width="16px" HorizontalAlignment="Left" Margin="10,0,0,0" Height="16"></Image>
-                                    <TextBlock Text="320" FontSize="13" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF35B736"/>
-                                    <Image Source="images/letter-f.png" Width="16px" HorizontalAlignment="Left" Margin="10,0,0,0" Height="16"></Image>
-                                    <TextBlock Text="320" FontSize="13" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF724BBE"/>
-                                </StackPanel>
-                            </StackPanel>
-
-
-                            <StackPanel>
-                                <TextBlock Text="Bułka zwykła" FontSize="21" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="15,5,0,0"></TextBlock>
-                                <TextBlock Text="1 bułka (60g)" FontSize="18" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="15,0,0,0" Foreground="#FF585858"></TextBlock>
-                                <StackPanel Orientation="Horizontal">
-                                    <Image Source="images/calories.png" Width="16px" HorizontalAlignment="Left" Margin="15,0,0,0" Height="16"></Image>
-                                    <TextBlock Text="320" FontSize="13" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FFFE1600"/>
-                                    <Image Source="images/letter-p.png" Width="16px" HorizontalAlignment="Left" Margin="10,0,0,0" Height="16"></Image>
-                                    <TextBlock Text="320" FontSize="13" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF1EAAF1"/>
-                                    <Image Source="images/letter-c.png" Width="16px" HorizontalAlignment="Left" Margin="10,0,0,0" Height="16"></Image>
-                                    <TextBlock Text="320" FontSize="13" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF35B736"/>
-                                    <Image Source="images/letter-f.png" Width="16px" HorizontalAlignment="Left" Margin="10,0,0,0" Height="16"></Image>
-                                    <TextBlock Text="320" FontSize="13" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF724BBE"/>
-                                </StackPanel>
-                            </StackPanel>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160" Padding="0,10,0,0"></Border>
-
-                            <TextBlock Text="Lunch" FontSize="26" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,10,0,10"></TextBlock>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160" Padding="0,10,0,0"></Border>
-                            <TextBlock Text="Obiad" FontSize="26" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,10,0,10"></TextBlock>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160" Padding="0,10,0,0"></Border>
-                            <TextBlock Text="Kolacja" FontSize="26" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,10,0,10"></TextBlock>
-                        </StackPanel>
+                        </Grid>
 
                     </StackPanel>
-                              
+
 
                 </Border>
 
@@ -186,19 +240,19 @@
                         <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="280" Margin="0,0,0,15"/>
                         <StackPanel Orientation="Horizontal" Margin="0,0,0,20" VerticalAlignment="Center" HorizontalAlignment="Center">
                             <Image Source="images/calories.png" Width="20" HorizontalAlignment="Left" Margin="0,0,0,0" Height="20"></Image>
-                            <TextBlock Text="320" FontSize="15" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FFFE1600"/>
+                            <TextBlock x:Name="kalorie"  FontSize="15" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FFFE1600"/>
                             <Image Source="images/letter-p.png" Width="20" HorizontalAlignment="Left" Margin="10,0,0,0" Height="20"></Image>
-                            <TextBlock Text="320" FontSize="15" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF1EAAF1"/>
+                            <TextBlock x:Name="bialko" FontSize="15" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF1EAAF1"/>
                             <Image Source="images/letter-c.png" Width="20" HorizontalAlignment="Left" Margin="10,0,0,0" Height="20"></Image>
-                            <TextBlock Text="320" FontSize="15" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF35B736"/>
+                            <TextBlock x:Name="wegle" FontSize="15" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF35B736"/>
                             <Image Source="images/letter-f.png" Width="20" HorizontalAlignment="Left" Margin="10,0,0,0" Height="20"></Image>
-                            <TextBlock Text="320" FontSize="15" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF724BBE"/>
+                            <TextBlock x:Name="tluszcze" FontSize="15" FontFamily="Bahnschrift" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,3,0,0" Foreground="#FF724BBE"/>
                         </StackPanel>
                     </StackPanel>
 
                 </Border>
 
-                <Button Grid.Row="5"  Background="#35B736">
+                <Button Grid.Row="5"  Background="#35B736" Click="Button_Click_3">
                     <TextBlock Foreground="white" FontFamily="Roboto" FontSize="18"><Run Text="G E N E R U J   D I E T E"/></TextBlock>
                     <Button.Resources>
                         <Style TargetType="Border">
@@ -210,7 +264,7 @@
             </Grid>
 
 
-            <Grid Grid.Column="3" Margin="0,35,0,0">
+            <Grid Grid.Column="4" Margin="0,35,0,0">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="35"/>
                     <RowDefinition Height="13*"/>
@@ -221,35 +275,17 @@
                 </Grid.RowDefinitions>
 
                 <Border Grid.Row="2" Background="White" CornerRadius="20">
-                    <StackPanel>
+                    <StackPanel Margin="10,0,10,0">
                         <TextBlock Text="Trening" FontSize="29" FontFamily="Bahnschrift" HorizontalAlignment="Center" Margin="0,10,0,10"></TextBlock>
-                        <StackPanel>
-                            <TextBlock Text="Wyciskanie na ławce prostej" FontSize="21" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,5,0,0"></TextBlock>
-                            <TextBlock Text="3 serie po 6 powtórzeń" FontSize="18" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,0,0,10" Foreground="#FF585858"></TextBlock>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160"></Border>
-                            <TextBlock Text="Rozpiętki na bramie" FontSize="21" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,5,0,0"></TextBlock>
-                            <TextBlock Text="2 serie po 12 powtórzeń" FontSize="18" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,0,0,10" Foreground="#FF585858"></TextBlock>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160"></Border>
-                            <TextBlock Text="Wznosy bokiem" FontSize="21" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,5,0,0"></TextBlock>
-                            <TextBlock Text="3 serie po 8 powtórzeń" FontSize="18" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,0,0,10" Foreground="#FF585858"></TextBlock>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160"></Border>
-                            <TextBlock Text="OHP" FontSize="21" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,5,0,0"></TextBlock>
-                            <TextBlock Text="2 serie po 6 powtórzeń" FontSize="18" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,0,0,10" Foreground="#FF585858"></TextBlock>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160"></Border>
-                            <TextBlock Text="Uginanie ramion" FontSize="21" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,5,0,0"></TextBlock>
-                            <TextBlock Text="4 serie po 8 powtórzeń" FontSize="18" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,0,0,10" Foreground="#FF585858"></TextBlock>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160"></Border>
-                            <TextBlock Text="Plank na piłce" FontSize="21" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,5,0,0"></TextBlock>
-                            <TextBlock Text="2 serie po 30 sekund" FontSize="18" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,0,0,10" Foreground="#FF585858"></TextBlock>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160"></Border>
-                            <TextBlock Text="Brzuszki rowerowe" FontSize="21" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,5,0,0"></TextBlock>
-                            <TextBlock Text="3 serie po 20 powtórzeń" FontSize="18" FontFamily="Bahnschrift" HorizontalAlignment="Left" Margin="10,0,0,10" Foreground="#FF585858"></TextBlock>
-                            <Border BorderThickness="0,0,0,2" BorderBrush="#D9D9D9" Width="160"></Border>
-                        </StackPanel>
+                        <Grid Height="543">
+                            <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="0,0,0,10">
+                                <TextBlock x:Name="trening" TextWrapping="Wrap" FontSize="18" HorizontalAlignment="Center" FontFamily="Bahnschrift"/>
+                            </ScrollViewer>
+                        </Grid>
                     </StackPanel>
                 </Border>
 
-                <Button Grid.Row="4"  Background="#1EAAF1">
+                <Button Grid.Row="4"  Background="#1EAAF1" Click="Button_Click_1">
                     <TextBlock Foreground="white" FontFamily="Roboto" FontSize="18"><Run Text="G E N E R U J   T R E N I N G"/></TextBlock>
                     <Button.Resources>
                         <Style TargetType="Border">
@@ -261,48 +297,51 @@
             </Grid>
 
 
-            <Grid Grid.Column="5" Margin="0,35,0,0">
+            <Grid Grid.Column="6" Margin="0,35,0,0">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="35"/>
                     <RowDefinition Height="13*"/>
-                    <RowDefinition Height="45*"/>
-                    <RowDefinition Height="205*"/>
+                    <RowDefinition Height="0"/>
+                    <RowDefinition Height="300*"/>
                     <RowDefinition Height="14*"/>
-                    <RowDefinition Height="116*"/>
+                    <RowDefinition Height="110*"/>
                     <RowDefinition Height="14*"/>
-                    <RowDefinition Height="116*"/>
+                    <RowDefinition Height="110*"/>
                     <RowDefinition Height="14*"/>
-                    <RowDefinition Height="116*"/>
+                    <RowDefinition Height="110*"/>
                     <RowDefinition Height="13*"/>
                     <RowDefinition Height="54*"/>
                     <RowDefinition Height="13*"/>
                 </Grid.RowDefinitions>
 
 
-                <Border Grid.Row="2" Background="#FF699CFC" CornerRadius="20,20,0,0">
-                    <TextBlock Foreground="white" FontFamily="Roboto" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"><Run Text="K A L E N D A R Z"/></TextBlock>
-                </Border>
+                <Viewbox Stretch="Fill" Grid.Row="3">
+                    <Calendar Style="{StaticResource StyleCalendar}"  SelectedDatesChanged="Calendar_SelectedDatesChanged" />
 
-                <Border Grid.Row="3" Background="White" CornerRadius="0,0,20,20">
-                </Border>
+                </Viewbox>
+
+
+
 
                 <Border Grid.Row="5" Background="#99C3DD" CornerRadius="20">
-                    <TextBlock Foreground="Black" FontFamily="Bahnschrift Light" FontSize="18" Margin="10,0,0,0" Width="250" VerticalAlignment="Center" Height="91" TextWrapping="Wrap" TextAlignment="Center">Przez całe życie serce uderza 2,5 miliarda razy, czyli przepompowuje ponad 173 mln litrów krwi</TextBlock>
+                    <TextBlock Name="curio1" Foreground="Black" FontFamily="Bahnschrift Light" FontSize="15" Margin="20,0,20,0" VerticalAlignment="Center" Height="91" TextWrapping="Wrap" Text="" TextAlignment="Center"></TextBlock>
                 </Border>
-                
+
                 <Border Grid.Row="7" Background="#FBC283" CornerRadius="20">
-                    <TextBlock Foreground="Black" FontFamily="Bahnschrift Light" FontSize="18" Margin="10,0,0,0" Width="250" VerticalAlignment="Center" Height="91" TextWrapping="Wrap" TextAlignment="Center">Przez całe życie serce uderza 2,5 miliarda razy, czyli przepompowuje ponad 173 mln litrów krwi</TextBlock>
+                    <TextBlock Name="curio2" Foreground="Black" FontFamily="Bahnschrift Light" FontSize="15" Margin="20,0,20,0" VerticalAlignment="Center" Height="91" TextWrapping="Wrap" Text="" TextAlignment="Center"></TextBlock>
                 </Border>
 
                 <Border Grid.Row="9" Background="#E08187" CornerRadius="20">
-                    <TextBlock Foreground="Black" FontFamily="Bahnschrift Light" FontSize="18" Margin="10,0,0,0" Width="250" VerticalAlignment="Center" Height="91" TextWrapping="Wrap" TextAlignment="Center">Przez całe życie serce uderza 2,5 miliarda razy, czyli przepompowuje ponad 173 mln litrów krwi</TextBlock>
+                    <TextBlock Name="curio3" Foreground="Black" FontFamily="Bahnschrift Light" FontSize="15" Margin="20,0,20,0" VerticalAlignment="Center" Height="91" TextWrapping="Wrap" Text="" TextAlignment="Center"></TextBlock>
                 </Border>
 
-                <Button Grid.Row="11"  Background="#66D9CF" >
+                <Button Grid.Row="11"  Background="#66D9CF" Click="MenuItem_Click_2" >
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Foreground="white" FontFamily="Roboto" FontSize="18" Margin="0,0,10,0"><Run Text="C E L"/></TextBlock>
-                        <Image Source="images/loading.png" Width="120px" HorizontalAlignment="Left" Margin="10,0,0,0" ></Image>
-                        <TextBlock Foreground="white" FontFamily="Roboto" FontSize="18" Margin="10,0,0,0"><Run Text="80 K G"/></TextBlock>
+                        <StackPanel Width="150" Background="white">
+                            <StackPanel x:Name="actPAnel" Width="0" Height="20"  Background="Yellow" HorizontalAlignment="Left"></StackPanel>
+                        </StackPanel>
+                        <TextBlock x:Name="yourgoal"  Foreground="white" FontFamily="Roboto" FontSize="18" Margin="10,0,0,0"><Run Text="... K G"/></TextBlock>
                     </StackPanel>
                     <Button.Resources>
                         <Style TargetType="Border">
@@ -316,111 +355,4 @@
 
         </Grid>
     </Grid>
-
-
-
-    <!--<Grid>
-        <Grid.ColumnDefinitions>
-
-            <ColumnDefinition Width="366.333*"/>
-            <ColumnDefinition Width="316.334*"/>
-            <ColumnDefinition Width="341.333*"/>
-        </Grid.ColumnDefinitions>
-
-        <Grid Grid.Column="0">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="35"/>
-                <RowDefinition/>
-                <RowDefinition Height="150" />
-            </Grid.RowDefinitions>
-
-            <Label Grid.Row="0" Background="Pink"></Label>
-            <ListBox  Background="Yellow"/>
-            <Button Grid.Row="1"  Background="Green"></Button>
-        </Grid>
-
-        <Grid Grid.Column="1" >
-            <Grid.RowDefinitions>
-                <RowDefinition/>
-                <RowDefinition Height="150" />
-            </Grid.RowDefinitions>
-
-            <ListBox Background="Red"></ListBox>
-            <Button Grid.Row="1" Background="Blue"></Button>
-        </Grid>
-
-        <Grid Grid.Column="2">
-            <Grid.RowDefinitions>
-                <RowDefinition/>
-                <RowDefinition Height="200" />
-                <RowDefinition Height="150" />
-            </Grid.RowDefinitions>
-            <Viewbox Stretch="Fill" Height="auto" Width="auto" Margin="0">
-                <CalendarItem Grid.Row="0" />
-            </Viewbox>
-            <Label Grid.Row="1" Background="Pink"></Label>
-            <ProgressBar Grid.Row="2"></ProgressBar>
-        </Grid>
-
-        <Grid Grid.Column="0" x:Name="sidePanel" Background="pink" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="50">
-            <StackPanel>
-                <Grid Height="35" >
-                    <Button Width="1024" Height="35" HorizontalAlignment="Right" VerticalAlignment="Top" Click="Button_Click" Background="#181818"></Button>
-                </Grid>
-            </StackPanel>
-        </Grid>
-    </Grid>-->
-
-
-
-    <!-- <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="50*"/>
-            <ColumnDefinition Width="326*"/>
-            <ColumnDefinition Width="326*"/>
-            <ColumnDefinition Width="326*"/>
-        </Grid.ColumnDefinitions>
-
-        <Grid Grid.Column="1">
-            <Grid.RowDefinitions>
-                <RowDefinition/>
-                <RowDefinition Height="150" />
-            </Grid.RowDefinitions>
-            
-            <ListBox Background="Yellow"/>
-            <Button Grid.Row="1"  Background="Green"></Button>
-        </Grid>
-        
-        <Grid Grid.Column="2" >
-            <Grid.RowDefinitions>
-                <RowDefinition/>
-                <RowDefinition Height="150" />
-            </Grid.RowDefinitions>
-            
-            <ListBox Background="Red"></ListBox>
-            <Button Grid.Row="1" Background="Blue"></Button>
-        </Grid>
-        
-        <Grid Grid.Column="3">
-            <Grid.RowDefinitions>
-                <RowDefinition/>
-                <RowDefinition Height="200" />
-                <RowDefinition Height="150" />
-            </Grid.RowDefinitions>
-            <Viewbox Stretch="Fill" Height="auto" Width="auto" Margin="0">
-                <CalendarItem Grid.Row="0" />
-            </Viewbox>
-            <Label Grid.Row="1" Background="Pink"></Label>
-            <ProgressBar Grid.Row="2"></ProgressBar>
-        </Grid>
-        
-        <Grid Grid.Column="0" x:Name="sidePanel" Background="pink" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="50">
-            <StackPanel>
-                <Grid Height="50" Background="White">
-                    <Button Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Top" Click="Button_Click"></Button>
-                </Grid>
-            </StackPanel>
-        </Grid>
-    </Grid>
--->
 </Window>

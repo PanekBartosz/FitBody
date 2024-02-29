@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\FitBody\FitBody\App.xaml
-5-429214331
+13-335901217
 
-7-1849156092
-194-1797456590
-LoginWindow.xaml;MainWindow.xaml;RegistrationWindow.xaml;ResetPassWindow.xaml;SettingsWindow.xaml;
+18-1706526501
+2101613655992
+DietWindow.xaml;DonutSpinner.xaml;ExercisesWindow.xaml;LoadWindow.xaml;LoginWindow.xaml;MainWindow.xaml;MeasurementWindow.xaml;RecipesWindow.xaml;RegistrationWindow.xaml;RegulationsWindow.xaml;ResetPassWindow.xaml;SettingsWindow.xaml;TrainingWindow.xaml;
 
 False
 

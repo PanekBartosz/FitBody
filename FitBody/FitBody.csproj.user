@@ -7,13 +7,19 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="ExercisesWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MeasurementWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="RegistrationWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="SettingsWindow.xaml.cs">
+    <Compile Update="RegulationsWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="ResetPassWindow.xaml.cs">
@@ -21,19 +27,40 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="DietWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DonutSpinner.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoadWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RecipesWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ExercisesWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="LoginWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="MeasurementWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="RegistrationWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="SettingsWindow.xaml">
+    <Page Update="RegulationsWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ResetPassWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TrainingWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

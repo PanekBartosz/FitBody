@@ -5,14 +5,449 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FitBody"
         mc:Ignorable="d"
-        Title="FitBody - Settings" Height="768" Width="1024"
+        Title="FitBody - Settings Window" Height="768" Width="1024"
         x:Name="ResponsiveWindow"
         WindowStyle="None"
         ResizeMode="CanResizeWithGrip"
         WindowStartupLocation="CenterScreen"
         MinHeight="768"
         MinWidth="1024">
+
+
     <Grid>
-        
+        <Grid.Background>
+            <ImageBrush ImageSource="images\bg-3.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="39"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="668*"/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.RowSpan="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="934*"/>
+                <ColumnDefinition Width="30*"/>
+                <ColumnDefinition Width="30*"/>
+                <ColumnDefinition Width="30*"/>
+            </Grid.ColumnDefinitions>
+            <Border Background="#181818" BorderBrush="#FF181818" Grid.ColumnSpan="4" Margin="0,0,0,0" />
+
+
+            <Border Grid.Column="3" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="closeButton" Content="" Click="closeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/cancel.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="closeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+
+
+
+
+            <Border Grid.Column="2" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="minimizeButton" Content="" Click="minimizeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/minimize-sign.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="minimizeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+
+            <Border Grid.Column="1" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="resizeButton" Content="" Click="resizeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/expand.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="resizeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+        </Grid>
+
+        <Grid Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="304.5*"/>
+                <ColumnDefinition Width="415"/>
+                <ColumnDefinition Width="304.5*"/>
+            </Grid.ColumnDefinitions>
+
+
+            <Grid Grid.Column="1"  Margin="-50,50,-50,-650" >
+                <Border Background="#EFEFEF" CornerRadius="15"/>
+
+                <StackPanel Height="650">
+                    <TextBlock Text="Ustawienia" IsEnabled="False" FontSize="36" FontFamily="Bahnschrift" HorizontalAlignment="Center" Margin="15,5,0,40" FontWeight="Bold" Height="66"></TextBlock>
+                    <TextBox x:Name="MessageBoxError" IsEnabled="False" FontWeight="Bold" Foreground="Red" Height="20" Width="260" Background="Transparent" BorderThickness="0" Text="" TextAlignment="Center"/>
+                    <StackPanel Height="140">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+
+                            <TextBlock FontSize="28" IsEnabled="False" FontFamily="Bahnschrift" Width="207" Height="40" TextWrapping="Wrap" TextAlignment="Right"><Run Language="pl-pl" Text="Nazwa użytk.:"/></TextBlock>
+
+                            <StackPanel Width="238">
+                                <TextBlock x:Name="TxtUserName"  FontSize="28" FontFamily="Bahnschrift" HorizontalAlignment="Center" Width="207" VerticalAlignment="Center" Height="40" TextWrapping="Wrap" TextAlignment="Center"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+                            <TextBlock FontSize="28" IsEnabled="False" FontFamily="Bahnschrift" HorizontalAlignment="Right" Width="207" VerticalAlignment="Center" Height="40" TextWrapping="Wrap" TextAlignment="Right" Text="Nowa nazwa:"/>
+
+                            <StackPanel Width="238">
+                                <TextBox x:Name="txtnewUserName" Width="195" Height="35" Text="Podaj nazwe" Padding="5"  
+                            VerticalContentAlignment="Center" BorderBrush="Black"
+                            FontFamily="Arial" FontWeight="Bold" GotFocus="textBox_GotFocus" LostFocus="username_LostFocus" FontSize="22" Foreground="#7F000000"
+                            TextAlignment="Center" HorizontalAlignment="Center"
+                            VerticalAlignment="Top" Cursor="Hand">
+                                    <TextBox.Resources>
+                                        <Style TargetType="{x:Type Border}">
+                                            <Setter Property="CornerRadius" Value="15"/>
+                                        </Style>
+                                    </TextBox.Resources>
+                                </TextBox>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+
+                            <StackPanel Width="238"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="415">
+
+                            <StackPanel Width="208" VerticalAlignment="Center">
+
+                                <StackPanel Orientation="Horizontal" Width="208"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="415">
+
+                            <StackPanel Width="208" VerticalAlignment="Center">
+                                <StackPanel Orientation="Horizontal" Width="208" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="415">
+
+                            <StackPanel Width="208"/>
+                        </StackPanel>
+
+
+                        <Button Click="ChangeUserName" Content="ZMIEŃ NAZWĘ" Width="300" Height="35" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,15,0,10" BorderBrush="#00000000" Background="#FF0AB19F" Cursor="Hand" Foreground="White">
+                            <Button.Style>
+                                <Style TargetType="{x:Type Button}">
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="{x:Type Button}">
+                                                <Border Background="{TemplateBinding Background}"
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            CornerRadius="10">
+                                                    <ContentPresenter HorizontalAlignment="Center"
+                                                VerticalAlignment="Center" />
+                                                </Border>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+
+
+                    </StackPanel>
+
+
+                    <StackPanel Height="180">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+
+                            <TextBlock FontSize="28" IsEnabled="False" FontFamily="Bahnschrift" Width="207" Height="40" TextWrapping="Wrap" TextAlignment="Right"><Run Language="pl-pl" Text="Aktualne hasło:"/></TextBlock>
+
+                            <StackPanel Width="238">
+                                <PasswordBox x:Name="txtpassword" GotFocus="password_GotFocus" VerticalAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Padding="5"
+                                PasswordChar="*" Width="195" Height="35"
+                                BorderBrush="Black" FontSize="22"
+                                FontFamily="Arial" SelectionBrush="Black" Foreground="Black" Cursor="Hand" >
+                                    <PasswordBox.Template>
+                                        <ControlTemplate TargetType="{x:Type PasswordBox}">
+                                            <Border 
+                                                Background="{TemplateBinding Background}"
+                                                BorderBrush="{TemplateBinding BorderBrush}"
+                                                BorderThickness="{TemplateBinding BorderThickness}"
+                                                CornerRadius="15">
+                                                <ScrollViewer x:Name="PART_ContentHost"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </PasswordBox.Template>
+                                </PasswordBox>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+                            <TextBlock FontSize="28" IsEnabled="False" FontFamily="Bahnschrift" HorizontalAlignment="Right" Width="207" VerticalAlignment="Center" Height="40" TextWrapping="Wrap" TextAlignment="Right"><Run Language="pl-pl" Text="Nowe hasło"/><Run Text=":"/></TextBlock>
+
+                            <StackPanel Width="238">
+                                <PasswordBox x:Name="txtnewpassword" GotFocus="password_GotFocus" VerticalAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Padding="5"
+                                PasswordChar="*" Width="195" Height="35"
+                                BorderBrush="Black" FontSize="22"
+                                FontFamily="Arial" SelectionBrush="Black" Foreground="Black" Cursor="Hand" >
+                                    <PasswordBox.Template>
+                                        <ControlTemplate TargetType="{x:Type PasswordBox}">
+                                            <Border 
+                                                Background="{TemplateBinding Background}"
+                                                BorderBrush="{TemplateBinding BorderBrush}"
+                                                BorderThickness="{TemplateBinding BorderThickness}"
+                                                CornerRadius="15">
+                                                <ScrollViewer x:Name="PART_ContentHost"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </PasswordBox.Template>
+                                </PasswordBox>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+
+                            <TextBlock FontSize="28" IsEnabled="False" FontFamily="Bahnschrift" Width="207" Height="40" TextWrapping="Wrap" TextAlignment="Right"><Run Language="pl-pl" Text="Potwórz hasło:"/></TextBlock>
+
+                            <StackPanel Width="238">
+                                <PasswordBox x:Name="txtconfirmpassword" GotFocus="password_GotFocus" VerticalAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Padding="5"
+                                PasswordChar="*" Width="195" Height="35"
+                                BorderBrush="Black" FontSize="22"
+                                FontFamily="Arial" SelectionBrush="Black" Foreground="Black" Cursor="Hand" >
+                                    <PasswordBox.Template>
+                                        <ControlTemplate TargetType="{x:Type PasswordBox}">
+                                            <Border 
+                                                Background="{TemplateBinding Background}"
+                                                BorderBrush="{TemplateBinding BorderBrush}"
+                                                BorderThickness="{TemplateBinding BorderThickness}"
+                                                CornerRadius="15">
+                                                <ScrollViewer x:Name="PART_ContentHost"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </PasswordBox.Template>
+                                </PasswordBox>
+                            </StackPanel>
+                        </StackPanel>
+
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+
+                            <StackPanel Width="238"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="415">
+
+                            <StackPanel Width="208" VerticalAlignment="Center">
+
+                                <StackPanel Orientation="Horizontal" Width="208"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="415">
+
+                            <StackPanel Width="208" VerticalAlignment="Center">
+                                <StackPanel Orientation="Horizontal" Width="208" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="415">
+
+                            <StackPanel Width="208"/>
+                        </StackPanel>
+
+
+                        <Button Click="ChangePassword" Content="ZMIEŃ HASŁO" Width="300" Height="35" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,15,0,10" BorderBrush="#00000000" Background="#FF0AB19F" Cursor="Hand" Foreground="White">
+                            <Button.Style>
+                                <Style TargetType="{x:Type Button}">
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="{x:Type Button}">
+                                                <Border Background="{TemplateBinding Background}"
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            CornerRadius="10">
+                                                    <ContentPresenter HorizontalAlignment="Center"
+                                                VerticalAlignment="Center" />
+                                                </Border>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+
+                    </StackPanel>
+
+                    <StackPanel Height="180">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+
+                            <TextBlock FontSize="28" IsEnabled="False" FontFamily="Bahnschrift" Width="207" Height="40" TextWrapping="Wrap" TextAlignment="Right"><Run Language="pl-pl" Text="E-mail"/><Run Text=":"/></TextBlock>
+
+                            <StackPanel Width="238">
+                                <TextBlock x:Name="TxtEmail" FontSize="28" FontFamily="Bahnschrift" HorizontalAlignment="Center" Width="207" VerticalAlignment="Center" Height="40" TextWrapping="Wrap" TextAlignment="Center"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+                            <TextBlock FontSize="28" IsEnabled="False" FontFamily="Bahnschrift" HorizontalAlignment="Right" Width="207" VerticalAlignment="Center" Height="40" TextWrapping="Wrap" TextAlignment="Right"><Run Text="Now"/><Run Language="pl-pl" Text="y email"/><Run Text=":"/></TextBlock>
+
+                            <StackPanel Width="238">
+                                <TextBox x:Name="txtNewEmail" Width="195" Height="35" Text="Podaj e-mail" Padding="5"  
+                            VerticalContentAlignment="Center" BorderBrush="Black"
+                            FontFamily="Arial" FontWeight="Bold" FontSize="22" Foreground="#7F000000"
+                            TextAlignment="Center" GotFocus="textBox_GotFocus" LostFocus="emailBox_LostFocus" HorizontalAlignment="Center"
+                            VerticalAlignment="Top" Cursor="Hand">
+                                    <TextBox.Resources>
+                                        <Style TargetType="{x:Type Border}">
+                                            <Setter Property="CornerRadius" Value="15"/>
+                                        </Style>
+                                    </TextBox.Resources>
+                                </TextBox>
+                            </StackPanel>
+
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+
+                            <TextBlock FontSize="28" IsEnabled="False" FontFamily="Bahnschrift" Width="207" Height="40" TextWrapping="Wrap" TextAlignment="Right"><Run Language="pl-pl" Text="Aktualne hasło:"/></TextBlock>
+
+                            <StackPanel Width="238">
+                                <PasswordBox x:Name="txtPassword1" GotFocus="password_GotFocus" VerticalAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Padding="5"
+                                PasswordChar="*" Width="195" Height="35"
+                                BorderBrush="Black" FontSize="22"
+                                FontFamily="Arial" SelectionBrush="Black" Foreground="Black" Cursor="Hand" >
+                                    <PasswordBox.Template>
+                                        <ControlTemplate TargetType="{x:Type PasswordBox}">
+                                            <Border 
+                                                Background="{TemplateBinding Background}"
+                                                BorderBrush="{TemplateBinding BorderBrush}"
+                                                BorderThickness="{TemplateBinding BorderThickness}"
+                                                CornerRadius="15">
+                                                <ScrollViewer x:Name="PART_ContentHost"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </PasswordBox.Template>
+                                </PasswordBox>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435">
+
+                            <StackPanel Width="238"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="415">
+
+                            <StackPanel Width="208" VerticalAlignment="Center">
+
+                                <StackPanel Orientation="Horizontal" Width="208"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="415">
+
+                            <StackPanel Width="208" VerticalAlignment="Center">
+                                <StackPanel Orientation="Horizontal" Width="208" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="415">
+
+                            <StackPanel Width="208"/>
+                        </StackPanel>
+
+
+                        <Button Click="ChangeEmail" Content="ZMIEŃ E-MAIL" Width="300" Height="35" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,15,0,10" BorderBrush="#00000000" Background="#FF0AB19F" Cursor="Hand" Foreground="White">
+                            <Button.Style>
+                                <Style TargetType="{x:Type Button}">
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="{x:Type Button}">
+                                                <Border Background="{TemplateBinding Background}"
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            CornerRadius="10">
+                                                    <ContentPresenter HorizontalAlignment="Center"
+                                                VerticalAlignment="Center" />
+                                                </Border>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+
+
+                    </StackPanel>
+
+                </StackPanel>
+
+
+
+
+
+
+
+
+
+                <Button x:Name="undoButton" Margin="138,637,138,10" BorderBrush="#FFEFEFEF"
+                        Background="#FFEFEFEF" FontFamily="Arial" FontSize="10" FontWeight="SemiBold" Foreground="#FF2A3A6C" Click="undoButton_Click">
+                    <Button.ContentTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="POWRÓĆ" TextDecorations="Underline" />
+                        </DataTemplate>
+                    </Button.ContentTemplate>
+                </Button>
+
+            </Grid>
+
+        </Grid>
     </Grid>
-</Window>
+</Window> 

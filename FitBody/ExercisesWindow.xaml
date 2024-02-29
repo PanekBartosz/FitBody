@@ -1,0 +1,166 @@
+﻿<Window x:Class="FitBody.ExercisesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:Grid="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FitBody"
+        mc:Ignorable="d"
+        Title="FitBody - Exercises Window" Height="768" Width="1024"
+        x:Name="ResponsiveWindow"
+        WindowStyle="None"
+        ResizeMode="CanResizeWithGrip"
+        WindowStartupLocation="CenterScreen"
+        MinHeight="768"
+        MinWidth="1024">
+    <Grid >
+        <Grid.Background>
+            <ImageBrush ImageSource="images\bg-3.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="39"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="667*" />
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.RowSpan="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="934*"/>
+                <ColumnDefinition Width="30*"/>
+                <ColumnDefinition Width="30*"/>
+                <ColumnDefinition Width="30*"/>
+            </Grid.ColumnDefinitions>
+            <Border Background="#181818" BorderBrush="#FF181818" Grid.ColumnSpan="4" Margin="0,0,0,0" />
+
+
+            <Border Grid.Column="3" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="closeButton" Content="" Click="closeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/cancel.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="closeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+
+
+
+
+            <Border Grid.Column="2" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="minimizeButton" Content="" Click="minimizeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/minimize-sign.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="minimizeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+
+            <Border Grid.Column="1" Background="#181818" BorderBrush="#FF181818" Margin="0,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid>
+                        <Button x:Name="resizeButton" Content="" Click="resizeButton_Click" Width="30" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Cursor="Hand"/>
+                        <Image Source="images/expand.png" Width="18" HorizontalAlignment="Right" Height="18" Margin="5,0,5,0" Grid.Column="0" VerticalAlignment="Center" MouseDown="resizeImage_MouseDown">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Setter Property="Cursor" Value="Hand"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Cursor" Value="Hand"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </Grid>
+                </Grid>
+            </Border>
+
+        </Grid>
+
+        <Grid Grid.RowSpan="4" HorizontalAlignment="Center" MaxHeight="667">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="112*"/>
+                <ColumnDefinition Width="800"/>
+                <ColumnDefinition Width="112*"/>
+            </Grid.ColumnDefinitions>
+
+
+            <Grid Grid.Column="1"  Margin="0,69,0,-30">
+
+                <Border Background="#EFEFEF" CornerRadius="15" Margin="0,-51,0,13">
+                    <Grid>
+                        <Rectangle Stroke="#FF25A199" StrokeThickness="4" RadiusX="2" RadiusY="2" Margin="221,68,205,590" RenderTransformOrigin="0.5,0.5">
+                            <Grid:Rectangle.RenderTransform>
+                                <Grid:TransformGroup>
+                                    <Grid:ScaleTransform ScaleY="-1"/>
+                                    <Grid:SkewTransform/>
+                                    <Grid:RotateTransform/>
+                                    <Grid:TranslateTransform/>
+                                </Grid:TransformGroup>
+                            </Grid:Rectangle.RenderTransform>
+                        </Rectangle>
+                    </Grid>
+                </Border>
+
+                <StackPanel Height="666" VerticalAlignment="Top" Margin="0,-51,0,0">
+                    <Grid:TextBlock FontSize="56"  FontFamily="Bahnschrift" HorizontalAlignment="Center" Margin="15,5,0,490" FontWeight="Bold" Foreground="#FF25A199">
+                        <Grid:Run Language="pl-pl" Text="ĆWICZENIA"/>
+                    </Grid:TextBlock>
+                    <Grid Height="5">
+                        <TextBox x:Name="searchTextBox" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}" Margin="236,-473,216,449" />
+                        <ListBox ItemsSource="{Binding FilteredItems}" Margin="0,-431,0,0" ScrollViewer.VerticalScrollBarVisibility="Auto" />
+                    </Grid>
+
+
+                </StackPanel>
+
+
+                <Button x:Name="undoButton" Margin="215,581,215,25" BorderBrush="#FFEFEFEF"
+                        Background="#FFEFEFEF" FontFamily="Arial" FontSize="10" FontWeight="SemiBold" Foreground="#FF2A3A6C" Click="undoButton_Click">
+                    <Button.ContentTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="POWRÓĆ" TextDecorations="Underline" />
+                        </DataTemplate>
+                    </Button.ContentTemplate>
+                </Button>
+
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Window>

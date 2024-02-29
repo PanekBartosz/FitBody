@@ -135,3 +135,702 @@ C:\FitBody\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
 C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
 C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
 C:\FitBody\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\wierz\Downloads\fitbody-lukasz(1)\fitbody-lukasz\fitbody-lukaszV2\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+C:\Users\BART-PC\Desktop\fitbody-przemek\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\App.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Bartosz\fitbody-main\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 5\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\LukaszV4\TestVersion\fitbody-lukasz\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\App.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\DOBRE\fitbody\FitBody\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\App.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Gmail.v1.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\MimeKit.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\FitBody\FitBody\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Gmail.v1.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\MimeKit.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+Z:\FitBody\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.g.cs
+Z:\FitBody\fitbody\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\Google.Apis.Gmail.v1.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\MimeKit.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\RecipesWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\RecipesWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.Gmail.v1.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\MimeKit.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\DonutSpinner.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\LoadWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\RecipesWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\App.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\DonutSpinner.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\LoadWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\RecipesWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Apis.Gmail.v1.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\MimeKit.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\DonutSpinner.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\LoadWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\RecipesWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\DonutSpinner.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\LoadWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\RecipesWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Pulpit\Semestr 6\Projekt\Projekt zespołowy systemu informatycznego\Etapy\fitbody-bartoszFinalS5\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\DonutSpinner.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\LoadWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\RecipesWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\DonutSpinner.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\LoadWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\RecipesWindow.baml
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\RegulationsWindow.g.cs
+C:\FitBody\FitBody\obj\Debug\net6.0-windows\RegulationsWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\DonutSpinner.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\LoadWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\RegulationsWindow.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\DonutSpinner.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\LoadWindow.baml
+C:\Users\wierz\Documents\Repository\wersjaII\fitbody\FitBody\obj\Debug\net6.0-windows\RegulationsWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.exe
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.deps.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.runtimeconfig.json
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Google.Apis.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Google.Apis.Gmail.v1.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\MimeKit.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.AssemblyReference.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\DietWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\DonutSpinner.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\LoadWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\LoginWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\RecipesWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\RegulationsWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\TrainingWindow.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\App.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody_MarkupCompile.lref
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\DietWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\DonutSpinner.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\ExercisesWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\LoadWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\LoginWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\MeasurementWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\RecipesWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\RegistrationWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\RegulationsWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\ResetPassWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\SettingsWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\TrainingWindow.baml
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.g.resources
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfoInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.AssemblyInfo.cs
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CoreCompileInputs.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.csproj.CopyComplete
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\refint\FitBody.dll
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.pdb
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\FitBody.genruntimeconfig.cache
+G:\Studia\Semestr 6\Projekt zespołowy systemu informatycznego\Etapy\AfterTests\fitbody-bartosz\FitBody\obj\Debug\net6.0-windows\ref\FitBody.dll

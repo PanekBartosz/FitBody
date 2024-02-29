@@ -14,7 +14,7 @@
         MinWidth="1024">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="images\bg-0.jpg" Stretch="UniformToFill"/>
+            <ImageBrush ImageSource="images\bg-3.jpg" Stretch="UniformToFill"/>
         </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="39"/>
@@ -132,11 +132,12 @@
 
 
                 </Border>
-
-                <TextBox x:Name="login" Width="300" Height="45" Text="LOGIN" Padding="5"  
-                         Margin="0,273,0,0" VerticalContentAlignment="Center" BorderBrush="Black"
+                <TextBox x:Name="MessageBoxError" IsEnabled="False" Foreground="Red" Height="20" Width="260" Background="Transparent" BorderThickness="0" Text="" TextAlignment="Center" Margin="78,218,77,430">
+                </TextBox>
+                <TextBox x:Name="txtlogin" Width="300" Height="45" Text="LOGIN" Padding="5"  
+                         Margin="0,247,0,0" VerticalContentAlignment="Center" BorderBrush="Black"
                          FontFamily="Arial" FontWeight="Bold" FontSize="22" Foreground="#7F000000"
-                         TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" GotFocus="login_GotFocus" Cursor="Hand">
+                         TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" GotFocus="textBox_GotFocus" LostFocus="login_LostFocus" Cursor="Hand">
                     <TextBox.Resources>
                         <Style TargetType="{x:Type Border}">
                             <Setter Property="CornerRadius" Value="15"/>
@@ -144,31 +145,68 @@
                     </TextBox.Resources>
                 </TextBox>
 
-                <PasswordBox x:Name="passwordBox" VerticalAlignment="Top" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5"
+                <TextBox x:Name="txtemail" Width="300" Height="45" Text="E-MAIL" Padding="5"  
+                    Margin="0,311,0,0" VerticalContentAlignment="Center" BorderBrush="Black"
+                    FontFamily="Arial" FontWeight="Bold" FontSize="22" Foreground="#7F000000"
+                    TextAlignment="Center" HorizontalAlignment="Center"
+                    VerticalAlignment="Top" GotFocus="textBox_GotFocus" LostFocus="emailBox_LostFocus" Cursor="Hand">
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="15"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+
+                <PasswordBox x:Name="txtpassword" VerticalAlignment="Top" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Padding="5"
                  PasswordChar="*" Width="300" Height="45"
                  PasswordChanged="passwordBox_PasswordChanged"
                  GotFocus="passwordBox_GotFocus" LostFocus="passwordBox_LostFocus" BorderBrush="Black" FontSize="22"
-                             FontFamily="Arial" Margin="0,424,0,0" Cursor="Hand" >
+                             FontFamily="Arial" SelectionBrush="Black" Foreground="Black" Cursor="Hand" Margin="0,370,0,0" >
                     <PasswordBox.Template>
                         <ControlTemplate TargetType="{x:Type PasswordBox}">
                             <Border Background="{TemplateBinding Background}"
-                        BorderBrush="{TemplateBinding BorderBrush}"
-                        BorderThickness="{TemplateBinding BorderThickness}"
-                        CornerRadius="15">
-                                <ScrollViewer x:Name="PART_ContentHost" />
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="15">
+                                <ScrollViewer x:Name="PART_ContentHost"/>
                             </Border>
+
                         </ControlTemplate>
                     </PasswordBox.Template>
                 </PasswordBox>
 
                 <TextBlock x:Name="overlayTextBlock" Text="HASŁO" VerticalAlignment="Top" HorizontalAlignment="Center"
-               Foreground="#7F000000" FontSize="22" FontWeight="Bold"
-               Visibility="Visible" Margin="0,432,0,0">
+                   Foreground="#7F000000" FontSize="22" FontWeight="Bold" IsEnabled="false"
+                   IsHitTestVisible="False"
+                   Visibility="Visible" Margin="0,376,0,0" >
                 </TextBlock>
 
-                <Image Source="images/logo.png" Width="200" Height="200" HorizontalAlignment="Center" Margin="0,0,0,400"/>
+                <PasswordBox x:Name="txtconfirmpassword" VerticalAlignment="Top" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Padding="5"
+                 PasswordChar="*" Width="300" Height="45"
+                 PasswordChanged="confirmpasswordBox_PasswordChanged"
+                 GotFocus="confirmpasswordBox_GotFocus" LostFocus="confirmpasswordBox_LostFocus" BorderBrush="Black" FontSize="22"
+                             FontFamily="Arial" SelectionBrush="Black" Foreground="Black" Cursor="Hand" Margin="0,430,0,0" >
+                    <PasswordBox.Template>
+                        <ControlTemplate TargetType="{x:Type PasswordBox}">
+                            <Border Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="15">
+                                <ScrollViewer x:Name="PART_ContentHost"/>
+                            </Border>
+                        </ControlTemplate>
+                    </PasswordBox.Template>
+                </PasswordBox>
 
-                <Button x:Name="registerButton" Content="ZAREJESTRUJ" Width="300" Height="45" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="0,569,0,54" BorderBrush="#00000000" Background="#FF95C7EC" Cursor="Hand">
+                <TextBlock x:Name="overlayTextBlock1" Text="POTWIERDŹ HASŁO" VerticalAlignment="Top" HorizontalAlignment="Center"
+                   Foreground="#7F000000" FontSize="22" FontWeight="Bold" IsEnabled="false"
+                   IsHitTestVisible="False"
+                   Visibility="Visible" Margin="0,436,0,0" >
+                </TextBlock>
+
+                <Image Source="images/logo.png" Width="200" Height="200" HorizontalAlignment="Left" Margin="110,10,0,458"/>
+
+                <Button x:Name="registerButton" Click ="Register_Click" Content="ZAREJESTRUJ" Width="300" Height="45" FontFamily="Arial" FontSize="22" FontWeight="Bold" Margin="58,587,57,36" BorderBrush="#00000000" Background="#FF0AB19F" Cursor="Hand" Foreground="White">
                     <Button.Style>
                         <Style TargetType="{x:Type Button}">
                             <Setter Property="Template">
@@ -187,23 +225,21 @@
                         </Style>
                     </Button.Style>
                 </Button>
-                <TextBox x:Name="emailBox" Width="300" Height="45" Text="E-MAIL" Padding="5"  
-                    Margin="0,351,0,0" VerticalContentAlignment="Center" BorderBrush="Black"
-                    FontFamily="Arial" FontWeight="Bold" FontSize="22" Foreground="#7F000000"
-                    TextAlignment="Center" HorizontalAlignment="Center"
-                    VerticalAlignment="Top" GotFocus="emailBox_GotFocus" Cursor="Hand">
-                    <TextBox.Resources>
-                        <Style TargetType="{x:Type Border}">
-                            <Setter Property="CornerRadius" Value="15"/>
-                        </Style>
-                    </TextBox.Resources>
-                </TextBox>
+
 
                 <Button x:Name="undoButton" Margin="138,637,138,10" BorderBrush="#FFEFEFEF"
                         Background="#FFEFEFEF" FontFamily="Arial" FontSize="10" FontWeight="SemiBold" Foreground="#FF2A3A6C" Click="undoButton_Click">
                     <Button.ContentTemplate>
                         <DataTemplate>
                             <TextBlock Text="POWRÓĆ" TextDecorations="Underline" />
+                        </DataTemplate>
+                    </Button.ContentTemplate>
+                </Button>
+                <Button x:Name="reguButton" Margin="138,561,138,86" BorderBrush="#FFEFEFEF"
+                    Background="#FFEFEFEF" FontFamily="Arial" FontSize="10" FontWeight="SemiBold" Foreground="#FF2A3A6C" Click="reguButton_Click">
+                    <Button.ContentTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="REGULAMIN" TextDecorations="Underline" />
                         </DataTemplate>
                     </Button.ContentTemplate>
                 </Button>
